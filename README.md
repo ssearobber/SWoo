@@ -33,6 +33,8 @@
 
 ## 참고 자료
 
+- tamastudy
+
 - [cors 이해](https://velog.io/@leejh3224/CORS-Real-examples-8yjnloovl5)
 
 * [디자인 패턴 Container and Presention](https://medium.com/@lyhlg0201/react-container-presentational-1bbc701b7fd4)
